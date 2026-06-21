@@ -76,6 +76,6 @@ and I'm all-in on AI tooling, building command-line tools that make coding agent
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-21262d?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marcinsufa.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcin-sufa-05711492) [![Email](https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sufa.marcin@gmail.com) [![CV](https://img.shields.io/badge/CV-21262d?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1nrHPRCmx8k2zcnSWHskG3bKNOBcOeJWG/view)
+[![Website](https://img.shields.io/badge/Website-21262d?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marcinsufa.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcin-sufa-05711492) [![Email](https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sufa.marcin@gmail.com) [![CV](https://img.shields.io/badge/CV-21262d?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Marcin_Sufa_CV.pdf)
 
 </div>
