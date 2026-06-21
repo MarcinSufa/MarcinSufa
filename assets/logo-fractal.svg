@@ -1,0 +1,9 @@
+<svg width="44" height="44" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fractal">
+  <rect x="62" y="18" width="40" height="40" rx="7" fill="#F4EFE3" opacity="0.85"/>
+  <rect x="18" y="62" width="40" height="40" rx="7" fill="#F4EFE3" opacity="0.85"/>
+  <rect x="62" y="62" width="40" height="40" rx="7" fill="#F4EFE3" opacity="0.5"/>
+  <rect x="18" y="18" width="18.5" height="18.5" rx="4" fill="#E08D6E"/>
+  <rect x="39.5" y="18" width="18.5" height="18.5" rx="4" fill="#F4EFE3" opacity="0.5"/>
+  <rect x="18" y="39.5" width="18.5" height="18.5" rx="4" fill="#F4EFE3" opacity="0.5"/>
+  <rect x="39.5" y="39.5" width="18.5" height="18.5" rx="4" fill="#E08D6E"/>
+</svg>
