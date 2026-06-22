@@ -55,18 +55,18 @@ and I'm all-in on AI tooling, building command-line tools that make coding agent
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/MarcinSufa/claude-watch-video"><code>claude-watch-video</code></a>
       <img src="https://img.shields.io/github/stars/MarcinSufa/claude-watch-video?style=flat&label=%E2%98%85&color=ff8a5c&labelColor=21262d" alt="stars" align="right" />
+      <a href="https://github.com/MarcinSufa/claude-watch-video"><code>claude-watch-video</code></a>
       <p><sub>Make Claude watch any video — frames + Whisper into a paste-ready evidence bundle.</sub></p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/MarcinSufa/git-timesheet"><code>git-timesheet</code></a>
       <img src="https://img.shields.io/github/stars/MarcinSufa/git-timesheet?style=flat&label=%E2%98%85&color=ff8a5c&labelColor=21262d" alt="stars" align="right" />
+      <a href="https://github.com/MarcinSufa/git-timesheet"><code>git-timesheet</code></a>
       <p><sub>Weekly PDF/CSV timesheets generated straight from your git commit history.</sub></p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/MarcinSufa/claude-demo-video"><code>claude-demo-video</code></a>
       <img src="https://img.shields.io/badge/Claude%20Code-plugin-ff8a5c?style=flat&labelColor=21262d" alt="Claude Code plugin" align="right" />
+      <a href="https://github.com/MarcinSufa/claude-demo-video"><code>claude-demo-video</code></a>
       <p><sub>Turn your app into a ~50s product film — real UI capture, AI voiceover, synced captions &amp; music. Runs free, locally.</sub></p>
     </td>
   </tr>
