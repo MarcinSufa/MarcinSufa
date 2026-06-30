@@ -20,7 +20,6 @@ and I'm all-in on AI tooling, building command-line tools that make coding agent
 
 <br/>
 
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcinSufa&layout=compact&langs_count=6&hide=html,css&hide_border=true&bg_color=161b22&title_color=2f81f7&text_color=c9d1d9" />
 <img height="165" alt="Current streak" src="https://streak-stats.demolab.com/?user=MarcinSufa&hide_border=true&background=161b22&border=30363d&stroke=30363d&ring=f78166&fire=f78166&currStreakLabel=f78166&currStreakNum=f0f6fc&sideLabels=c9d1d9&sideNums=e6edf3&dates=7d8590&excludeDaysLabel=7d8590" />
 
 </div>
